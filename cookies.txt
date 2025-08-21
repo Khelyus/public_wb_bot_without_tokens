@@ -1,0 +1,26 @@
+[
+  {
+    "name": "WBTokenV3",
+    "value": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NDkyMDQ1MDgsInVzZXIiOiIxMDU4MTcyMyIsInNoYXJkX2tleSI6IjIwIiwiY2xpZW50X2lkIjoic2VsbGVyLXBvcnRhbCIsInNlc3Npb25faWQiOiJjMmU1MjcwYzQ2ZDA0ZGNkYjIwNzdiY2YyYjA4YTIyMiIsInZhbGlkYXRpb25fa2V5IjoiM2ZmYzVlYWI2MzlkOTU0MGYxNDQ2MDRiZTgzYjQ0M2YzYzI1MzNjYjM0NDM2ZTQxMjAyNGFkMTZiOTY0OGMyMCIsInVzZXJfcmVnaXN0cmF0aW9uX2R0IjoxNjcyMDYxODcwLCJ2ZXJzaW9uIjoyfQ.XiKH0-hGS6Dc3tAhzGmVClTF6SQK3JdUiex4nHldB2_O4qaFjCf4Mewuc5So18yXbDQvec3G7nej_I25JC51GJih6ck2-cs7vDzTQMdmXTgQEVXreQVG3k9Sc00kaWwJXTlqtIRJy4IHtGL5144BxDbYaShm1FFGV7KhF9g4qshzWiqrnY_LzpoundoRCABjl9wZIjz3fuB8K4u-bHrC_aKDMb_OT3uJCEXeZk1cJuziQWOWDGmJ4Ey95EUaGNB_X5EPHGokzlGvDDnu-GJkXQmL2LrFG47KLKJDCJCd0jOv4sVbk7uF8iDYq0tj4gX4IsPhu137ABIZsBzuyxVxZA",
+    "domain": "seller.wildberries.ru",
+    "path": "/"
+  },
+  {
+    "name": "x-supplier-id",
+    "value": "075009fc-15d0-4b94-a9ca-083e61ec2a2e",
+    "domain": "seller.wildberries.ru",
+    "path": "/"
+  },
+  {
+    "name": "locale",
+    "value": "ru",
+    "domain": "seller.wildberries.ru",
+    "path": "/"
+  },
+  {
+    "name": "external-locale",
+    "value": "ru",
+    "domain": ".wildberries.ru",
+    "path": "/"
+  }
+]
