@@ -1,0 +1,7 @@
+ *.log linguist-vendored
+ *.txt linguist-vendored
+ **/cookies.txt linguist-vendored
+ TelegramRequestsHandler.py linguist-language=Python
+ WarehouseCoefficientsMonitor.py linguist-language=Python
+ main.py linguist-language=Python
+ ```
